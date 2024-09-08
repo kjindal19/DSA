@@ -7,7 +7,7 @@ This Repository contains all the codes for DSA I am working on. I plan to start 
 
 # Project Directory
 
-1) ## [Basics of C and CPP](https://github.com/kjindal19/DSA/)
+1) ## [Basics of C and CPP](https://github.com/kjindal19/DSA/tree/main/Basics%20of%20C%20and%20CPP)
 
 
 # Resources I am following
